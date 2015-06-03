@@ -1,0 +1,11 @@
+#!/bin/sh
+
+
+echo -n "Please enter an English word:"
+read WORD
+line=$(grep -iwn $WORD Swadesh_EN.txt | sed -n 's/^\([0-9]*\)[:].*/\1/p')
+echo $line
+sed "${line}q;d" Swadesh_YR.txt
+
+
+
