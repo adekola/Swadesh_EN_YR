@@ -1,0 +1,11 @@
+#!/bin/sh
+
+
+word=$(zenity --entry --text "Please enter an English word")
+line=$(grep -iwn $word Swadesh_EN.txt | sed -n 's/^\([0-9]*\)[:].*/\1/p')
+tr_word=$(sed "${line}q;d" Swadesh_YR.txt)
+
+#zenity --info --text "$tr_word"
+
+
+
