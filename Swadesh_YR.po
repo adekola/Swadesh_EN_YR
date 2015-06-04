@@ -1,0 +1,6 @@
+msgid "Prompt"
+msgstr "Jọ̀wọ́ kọ ọrọ̀ ti o fẹ́ túmọ"
+msgid "Result"
+msgstr "Ní edè Yorùbá, jẹ́:"
+msgid "Error"
+msgstr "A kò rí ọrọ̀ naa"

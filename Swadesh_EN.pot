@@ -1,0 +1,6 @@
+msgid "Prompt"
+msgstr ""
+msgid "Result"
+msgstr ""
+msgid "Error"
+msgstr ""
