@@ -17,7 +17,7 @@ to clone the reporsitory
 After cloning, run `cd Swadesh_EN_YR` to enter into the utility's directory
 
 Once in, ensure the two scripts have executable permissions by running
-`chmod 777 translate tranlate_gui`
+`chmod 777 translate translate_gui`
 
 The terminal version of the utility expects the word to be translated as the first parameter, like so:
 `./translate <word>`
