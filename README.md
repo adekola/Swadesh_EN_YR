@@ -1,5 +1,7 @@
 # Swadesh_EN_YR
-Repository for a language translation utility written in Shell programming to translate from English to Yoruba using the vocabulary of Swadesh lists for English and Yoruba 
+Repository for a language translation utility written in Shell programming to translate from English to Yoruba using the vocabulary of Swadesh lists for English and Yoruba.
+
+This assignment was done as part of the evaluation requirements for the Introduction to Unix/Linux in ICT Seminar of the Erasmus Mundus PERCCOM Program at the ITMO University, st Petersburg, Russia from 25-May-2015 to 5-Jun-2015
 
 To use this utility, simply clone the repository into your system.
 This requires that you have git installed. 
